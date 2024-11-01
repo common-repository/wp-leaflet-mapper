@@ -1,0 +1,83 @@
+# Translation of Plugins - WP Leaflet Mapper - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - WP Leaflet Mapper - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-01 20:32+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Leaflet Mapper - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: wp-leaflet-mapper.php:213
+msgid "Save Changes"
+msgstr "設定を保存"
+
+#: wp-leaflet-mapper.php:207
+msgid "GSI(Japan Map)"
+msgstr "国土地理院タイル（日本のみ）"
+
+#: wp-leaflet-mapper.php:203
+msgid "Select a map tile"
+msgstr "マップタイルを選択"
+
+#: wp-leaflet-mapper.php:189
+msgid "Describe the post type to display the map on the admin panel. More than one can be specified by comma (,)."
+msgstr "管理画面で地図を表示する投稿タイプを記述してください。カンマ（,)で複数指定可能です。"
+
+#: wp-leaflet-mapper.php:187
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: wp-leaflet-mapper.php:183
+msgid "Maximum zoom level"
+msgstr "最大ズームレベル"
+
+#: wp-leaflet-mapper.php:179
+msgid "Minimum zoom level"
+msgstr "最小ズームレベル"
+
+#: wp-leaflet-mapper.php:174
+msgid "Map height"
+msgstr "表示する地図の高さ"
+
+#: wp-leaflet-mapper.php:170
+msgid "Default location"
+msgstr "初期表示位置"
+
+#: wp-leaflet-mapper.php:164
+msgid "Leaflet Mapper Options"
+msgstr "Leaflet Mapper 設定"
+
+#: wp-leaflet-mapper.php:120
+msgid "Leaflet-Mapper"
+msgstr "Leaflet-Mapper設定"
+
+#: wp-leaflet-mapper.php:73
+msgid "GSI"
+msgstr "地理院タイル"
+
+#: wp-leaflet-mapper.php:37
+msgid "Specify a location"
+msgstr "MAP登録"
+
+#. Author URI of the plugin
+msgid "https://www.ii-sys.jp"
+msgstr "https://www.ii-sys.jp"
+
+#. Author of the plugin
+msgid "sio"
+msgstr "sio"
+
+#. Description of the plugin
+msgid "Supports switching from GMap to Leaflet. Display map on post screen and save LatLng as a custom field at GUI."
+msgstr "GMapからLeafletへの切り替えをサポートします。投稿画面に地図を表示し、GUIでLatLngをカスタムフィールドとして保存します。"
+
+#. Plugin Name of the plugin
+msgid "WP Leaflet Mapper"
+msgstr "WP Leaflet Mapper"
